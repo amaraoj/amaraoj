@@ -14,7 +14,8 @@
 Hi to you, my name is Amara! I am a avid coder and student who attends the University of Michigan! (#GoWolverines)
 I currently live in Ann Arbor but my hometown is in NYC! I have multiple hobbies outside of coding including boxing, ballet, ranged shooting and sketching fashion designs!
 
-I am living in Plano, Texas in the summer to work at the J.P Morgan office! #CantWait4U
+I am living in Plano, Texas in the summer to work at the J.P Morgan office! #CantWait4U 
+*but that's pretty much it*
 
 
 ![rihanna](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lncHZlN291cGR6ZTJubGg0aGtwbmFrbWFtdHczMGtyb2tuYW1pNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGRPXDY49tDZPgI/giphy.gif)
