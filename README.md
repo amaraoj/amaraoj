@@ -1,10 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on C++ projects and a personal fashion blog website!
+- 🔭 I’m currently working on C++ projects, AI generative Reddit Post to TikTok video conversion app and a personal fashion blog website!
 - 🌱 I’m currently learning Python, Node.js, + Java!
 - 💬 Ask me about fashion trends, math algorithims, baking/cooking, and excel/google sheets hacks!
 - 📫 How to reach me: graceoj@umich.edu / amaraojsantini@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I speak 4 languages and have lived in multiple countries
+- How did I make this? Click this ^-^: https://www.sitepoint.com/github-profile-readme/ (Tutorial coming soon)
 <!--
 **amaraoj/amaraoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
