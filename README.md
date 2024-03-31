@@ -11,8 +11,9 @@
 - How did I make this? Click this ^-^: https://www.sitepoint.com/github-profile-readme/ (Tutorial coming soon)
 
 ### ✨ ABOUT ME ✨
-Hi to you, my name is Amara! I am a avid coder and student who attends the University of Michigan! (#GoWolverines, #OHIOSTATEKNOWSTHEIRPLACE) 
+Hi to you, my name is Amara! I am a avid coder and student who attends the University of Michigan! (#GoWolverines)
 I currently live in Ann Arbor but my hometown is in NYC! I have multiple hobbies outside of coding including boxing, ballet, ranged shooting and sketching fashion designs!
+*That's all I got!*
 ![rihanna](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lncHZlN291cGR6ZTJubGg0aGtwbmFrbWFtdHczMGtyb2tuYW1pNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGRPXDY49tDZPgI/giphy.gif)
 <!--
 **amaraoj/amaraoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
