@@ -7,7 +7,7 @@
 - 📫 How to reach me: graceoj@umich.edu / amaraojsantini@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I speak 4 languages and have lived in multiple countries
-- ✨ Favorite Animes/Mangas: 
+- ✨ Favorite Animes/Mangas: Mitchiko & Hatchin, VIEL, Peach Girl, NANA, Fairy Tail, JJK, The Way of the Househusband and more! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 - How did I make this? Click this ^-^: https://www.sitepoint.com/github-profile-readme/ (Tutorial coming soon)
 <!--
 **amaraoj/amaraoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
